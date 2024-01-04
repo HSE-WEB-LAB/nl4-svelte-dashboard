@@ -1,0 +1,3 @@
+<div class="mock">
+    Coming soon...
+</div>
